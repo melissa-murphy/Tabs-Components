@@ -1,0 +1,11 @@
+{
+  "name": "melissa-murphy-tab-components",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/melissa-murphy/Tabs-Components.git",
+  "author": "melissa-murphy <melissamurphy.ca@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "less-watch-compiler less css index.less"
+  }
+}
